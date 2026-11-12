@@ -1,0 +1,17 @@
+# Modellfilene er for store for GitHub. De lages med scripts/convert_nllb.sh.
+Oversetter/Models/*.mlpackage
+Oversetter/Models/tokenizer.json
+Oversetter/Models/_tokenizer_tmp/
+
+# Python-miljø for konverteringen
+.venv/
+__pycache__/
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+.build/
+.swiftpm/
+
+.DS_Store
